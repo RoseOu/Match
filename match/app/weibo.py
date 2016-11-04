@@ -15,7 +15,7 @@ def weibo(user):
 	header = {
 		"Accept":"*/*",
 		"Connection":"keep-alive",
-	    "Cookie": "_T_WM=e67f7f47d7a164548f2218faaf008f70; SCF=AodVtVkaxjeEs8cBpbNbiNBw8dIkjIFhz5qNSnvi3Y2wfmhvbiWyRKFgnNmqVwDNeEvJCIswQJ31k46o-LPLGGQ.; SUHB=00x5VUHUDsIQsR; WEIBOCN_FROM=feed; gsid_CTandWM=4ugyfaa31O5PS4HNlfFxfd0ZL6l; SUB=_2A251EBMgDeTxGeVP61AR-S3Pwj-IHXVW-r1orDV6PUJbkdANLUnFkW0fqGoxURZzjLpek4t2QhbqCgdIuQ..",
+	    	"Cookie": "_T_WM=e67f7f47d7a164548f2218faaf008f70; SCF=AodVtVkaxjeEs8cBpbNbiNBw8dIkjIFhz5qNSnvi3Y2wfmhvbiWyRKFgnNmqVwDNeEvJCIswQJ31k46o-LPLGGQ.; SUHB=00x5VUHUDsIQsR; WEIBOCN_FROM=feed; gsid_CTandWM=4ugyfaa31O5PS4HNlfFxfd0ZL6l; SUB=_2A251EBMgDeTxGeVP61AR-S3Pwj-IHXVW-r1orDV6PUJbkdANLUnFkW0fqGoxURZzjLpek4t2QhbqCgdIuQ..",
 		"Host":"weibo.cn",
 		"Referer":"http://weibo.cn/",
 		"User-Agent":"Chrome/53.0.2785.143"
